@@ -1,0 +1,17 @@
+[
+    {
+        "title": "FIRST",
+        "description": "HALALA",
+        "completed": false
+    },
+    {
+        "title": "lets see",
+        "description": "wow",
+        "completed": true
+    },
+    {
+        "title": "EXAM",
+        "description": "PREPARE FOR PYTHON PROGRAMMING",
+        "completed": false
+    }
+]
